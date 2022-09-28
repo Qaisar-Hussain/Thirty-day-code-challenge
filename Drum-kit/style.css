@@ -1,0 +1,31 @@
+.mainContainer{
+    background-image:url("/imageaAndMusic/stock-photo--d-illustration-of-musical-notes-and-musical-signs-of-abstract-music-sheet-songs-and-melody-concept-761313844.jpg");
+    border: 2px solid yellow;
+  height: 1000px;
+}
+.keys{
+    margin-top:500px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+.ul{
+    border: 2px green;
+    display: flex;
+}
+.ul li{
+    display: flex;
+    align-items: center;
+    font-size: 50px;
+    color: red;
+    text-decoration: none;
+    border: 2px solid blue;
+    border-radius: 10px;
+    padding: 26px 50px;
+    margin: 10px 10px;
+}
+.ul li:hover{
+    color: green;
+    cursor: pointer;
+    background-color: rgb(71, 92, 85);
+}
