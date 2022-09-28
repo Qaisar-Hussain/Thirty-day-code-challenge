@@ -1,2 +1,2 @@
 # Thirty-day-code-challenge
-This repo is or PIAIC assignments. 
+This repo is for PIAIC assignments. 
